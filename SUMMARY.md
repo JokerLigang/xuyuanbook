@@ -9,4 +9,5 @@
   * [设置轮播图下的4个icon图标](she-zhi-lun-bo-tu-xia-de-4-ge-icon-tu-biao.md)
   * [设置首页拼团板块](she-zhi-shou-ye-pin-tuan-ban-kuai.md)
   * [设置首页砍价板块](she-zhi-shou-ye-kan-jia-ban-kuai.md)
+  * [设置首页精选专题板块](she-zhi-shou-ye-jing-xuan-zhuan-ti-ban-kuai.md)
 
