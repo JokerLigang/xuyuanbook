@@ -21,4 +21,5 @@
 * [配置礼券领取页](pei-zhi-li-quan-ling-qu-ye.md)
 * [配置专栏列表页](pei-zhi-zhuan-lan-lie-biao-ye.md)
 * [配置专栏详情页](pei-zhi-zhuan-lan-xiang-qing-ye.md)
+* [配置砍价活动信息](pei-zhi-kan-jia-huo-dong-xin-xi.md)
 
