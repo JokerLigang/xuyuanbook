@@ -11,4 +11,6 @@
   * [设置首页砍价板块](she-zhi-shou-ye-kan-jia-ban-kuai.md)
   * [设置首页精选专题板块](she-zhi-shou-ye-jing-xuan-zhuan-ti-ban-kuai.md)
   * [设置首页推荐商品板块](she-zhi-shou-ye-tui-jian-shang-pin-ban-kuai.md)
+* [配置分类页](pei-zhi-fen-lei-ye.md)
+  * [设置顶部轮播广告位](pei-zhi-fen-lei-ye/she-zhi-ding-bu-lun-bo-guang-gao-wei.md)
 
