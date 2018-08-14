@@ -13,4 +13,5 @@
   * [设置首页推荐商品板块](she-zhi-shou-ye-tui-jian-shang-pin-ban-kuai.md)
 * [配置分类页](pei-zhi-fen-lei-ye.md)
   * [设置顶部轮播广告位](pei-zhi-fen-lei-ye/she-zhi-ding-bu-lun-bo-guang-gao-wei.md)
+  * [设置一级分类](pei-zhi-fen-lei-ye/she-zhi-yi-ji-fen-lei.md)
 
