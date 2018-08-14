@@ -19,4 +19,5 @@
 * [配置个人中心页](pei-zhi-ge-ren-zhong-xin-ye.md)
 * [配置签到页](pei-zhi-qian-dao-ye.md)
 * [配置礼券领取页](pei-zhi-li-quan-ling-qu-ye.md)
+* [配置专栏列表页](pei-zhi-zhuan-lan-lie-biao-ye.md)
 
