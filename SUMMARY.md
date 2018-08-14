@@ -7,4 +7,5 @@
   * [设置首页优惠券（包含弹窗领取）](she-zhi-shou-ye-you-hui-quan-ff08-bao-han-dan-chuang-ling-qu-ff09.md)
   * [设置顶部轮播广告图](she-zhi-ding-bu-lun-bo-guang-gao-tu.md)
   * [设置轮播图下的4个icon图标](she-zhi-lun-bo-tu-xia-de-4-ge-icon-tu-biao.md)
+  * [设置首页拼团板块](she-zhi-shou-ye-pin-tuan-ban-kuai.md)
 
