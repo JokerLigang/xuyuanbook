@@ -14,4 +14,5 @@
 * [配置分类页](pei-zhi-fen-lei-ye.md)
   * [设置顶部轮播广告位](pei-zhi-fen-lei-ye/she-zhi-ding-bu-lun-bo-guang-gao-wei.md)
   * [设置一级分类](pei-zhi-fen-lei-ye/she-zhi-yi-ji-fen-lei.md)
+  * [设置二级分类](pei-zhi-fen-lei-ye/she-zhi-er-ji-fen-lei.md)
 
